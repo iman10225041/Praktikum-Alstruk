@@ -1,0 +1,7 @@
+Mulai. 
+Masukkan bilangan n. 
+Jika n < 2, maka n bukan bilangan prima. 
+Jika n ≥ 2, lakukan pengecekan pembagian dari 2 sampai n - 1. 
+Jika n habis dibagi salah satu bilangan tersebut, maka n bukan bilangan prima. 
+Jika tidak ada bilangan yang dapat membagi n habis, maka n adalah bilangan prima. 
+Selesai.
